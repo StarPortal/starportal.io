@@ -16,14 +16,11 @@ function Home() {
       <Header />
 
       {/*  Page content */}
-      <main className="flex-grow">
+      <main className="flex-grow mb-8">
 
         {/*  Page sections */}
         <HeroHome />
         <FeaturesHome />
-        <FeaturesBlocks />
-        <Testimonials />
-        <Newsletter />
 
       </main>
 
